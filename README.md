@@ -17,6 +17,7 @@ and find me at &nbsp
 </p>
 
 
+<p align="center"><sub>tbh you won't find much work I've done in the last few years here on github, but feel free to check the repositories :D </sub> </p>
 
 
 <!--
