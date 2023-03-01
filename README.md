@@ -1,5 +1,6 @@
-<h2 align="center"> <img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" alt="woobly dancing guy" width="32" height="32"/> Hello, I'm Luiz (he/him) </h4>
+
 <img align='right' src="https://media.giphy.com/media/IiaI3aeSwyFyeiGinU/giphy.gif" width="200" height="200" alt="workers of the world, unite"/>
+<h2 align="center"> <img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" alt="woobly dancing guy" width="32" height="32"/> Hello, I'm Luiz (he/him) </h4>
 
 <p align="center">
 I'm a brazilian game developer that wants to make games that leave people with a happy heart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25"  />
