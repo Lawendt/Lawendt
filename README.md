@@ -10,7 +10,7 @@ I'm a brazilian game developer that wants to make games that leave people with a
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ5MjlhOTIwNTk1MTdiYWExNTZmNTY1MjQ3M2Y2NzUzMzEyMGE4OSZjdD1z/ANxq8is9abj7JiACRT/giphy.gif" width="32"  /> <a href= "https://lawendt.github.io/#!/">Check what I've worked on</a>
 and find me at &nbsp
-<a href= "https://twitter.com/La_wendt"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/180px-Twitter-logo.svg.png" width="16"  alt="twitter"/></a>   
+<a href= "https://twitter.com/La_wendt"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-8.png" width="16"  alt="twitter"/></a>   
 &nbsp
 <a href= "https://mastodon.gamedev.place/@la_wendt"> <img src="https://joinmastodon.org/logos/logo-purple.svg" width="16"  alt="mastodon"/>
 </a>
